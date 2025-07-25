@@ -8,23 +8,16 @@ export default function TextSLider4() {
                 <div className="mycustom-marque">
                     <div className="scrolling-wrap">
                         <div className="comm">
-                            <div className="cmn-textslide">Creatives AGENCY</div>
+                            <div className="cmn-textslide">Design Graphique</div>
                             <div><img src="/assets/img/client/text-slide.png" alt="img" /></div>
-                            <div className="cmn-textslide">software agency</div>
+                            <div className="cmn-textslide">Développement Web</div>
                             <div><img src="/assets/img/client/text-slide.png" alt="img" /></div>
-                            <div className="cmn-textslide">Digital Agency</div>
+                            <div className="cmn-textslide">Community Management</div>
                             <div><img src="/assets/img/client/text-slide.png" alt="img" /></div>
-                            <div className="cmn-textslide">products design</div>
+                            <div className="cmn-textslide">Stratégie Marketing</div>
                         </div>
-                        <div className="comm">
-                            <div className="cmn-textslide">Creatives AGENCY</div>
-                            <div><img src="/assets/img/client/text-slide.png" alt="img" /></div>
-                            <div className="cmn-textslide">software agency</div>
-                            <div><img src="/assets/img/client/text-slide.png" alt="img" /></div>
-                            <div className="cmn-textslide">Digital Agency</div>
-                            <div><img src="/assets/img/client/text-slide.png" alt="img" /></div>
-                            <div className="cmn-textslide">products design</div>
-                        </div>
+                       
+
                     </div>
                 </div>
             </div>

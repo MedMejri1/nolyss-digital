@@ -1,4 +1,4 @@
-// File: C:\Users\Oussama Digital\Desktop\mohamed\samy\Nolyss Digital\site web\template\xstar-package\xstar-next\app\page.js
+// File: C:\Users\Oussama Digital\Documents\GitHub\nolyss-digital\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
